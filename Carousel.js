@@ -22,7 +22,7 @@ class Carousel {
           nav: false,
           loop: true
         });
-        let owl = $(this.container);
+        let owl = $('.owl-carousel');
         owl.owlCarousel();
         $('.photo-slider-link-2').click( e => {
           e.preventDefault();
