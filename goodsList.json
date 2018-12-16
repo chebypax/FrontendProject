@@ -1,0 +1,83 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "Mango people t-shirt",
+    "size": "[xxs, xs, s, m, l, xl,]",
+    "imageSrc": "img/gallery/product-1.jpg",
+    "alt": "item image",
+    "rating": "4.4",
+    "price": 52.00
+  },
+  {
+    "id_product": 2,
+    "product_name": "Product 2",
+    "size": "[s, m, l, xl, xxl]",
+    "imageSrc": "img/gallery/product-2.jpg",
+    "alt": "item image",
+    "rating": "4.7",
+    "price": 10.00
+  },
+  {
+    "id_product": 3,
+    "product_name": "Mango people t-shirt",
+    "size": "[xxs, xs, s, m, l, xl,]",
+    "imageSrc": "img/gallery/product-3.jpg",
+    "alt": "item image",
+    "rating": "3.7",
+    "price": 152.00
+  },
+  {
+    "id_product": 4,
+    "product_name": "Product 2",
+    "size": "[s, m, l, xl, xxl]",
+    "imageSrc": "img/gallery/product-4.jpg",
+    "alt": "item image",
+    "rating": "4.2",
+    "price": 100.00
+  },
+  {
+    "id_product": 5,
+    "product_name": "Mango people t-shirt",
+    "size": "[xxs, xs, s, m, l, xl,]",
+    "imageSrc": "img/gallery/product-5.jpg",
+    "alt": "item image",
+    "rating": "4.3",
+    "price": 32.00
+  },
+  {
+    "id_product": 6,
+    "product_name": "Product 2",
+    "size": "[s, m, l, xl, xxl]",
+    "imageSrc": "img/gallery/product-6.jpg",
+    "alt": "item image",
+    "rating": "5.0",
+    "price": 94.00
+  },
+  {
+    "id_product": 7,
+    "product_name": "Mango people t-shirt",
+    "size": "[xxs, xs, s, m, l, xl,]",
+    "imageSrc": "img/gallery/product-7.jpg",
+    "alt": "item image",
+    "rating": "4.7",
+    "price": 252.00
+  },
+  {
+    "id_product": 8,
+    "product_name": "Product 3",
+    "size": "[s, m, l, xl, xxl]",
+    "imageSrc": "img/gallery/product-8.jpg",
+    "alt": "item image",
+    "rating": "4.4",
+    "price": 45.00
+  },
+  {
+    "id_product": 9,
+    "product_name": "Product 9",
+    "size": "[s, m, l, xl, xxl]",
+    "imageSrc": "img/gallery/product-8.jpg",
+    "alt": "item image",
+    "rating": "1.1",
+    "price": 18.50
+  }
+]
